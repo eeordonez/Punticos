@@ -1,0 +1,23 @@
+@media screen and (max-width: 1180px) {
+    
+   
+
+    .cabeza {
+        width: 40rem;
+        height: 8rem;
+        border: 0.5rem solid rgb(67, 67, 166);
+        background-color: rgb(123, 123, 215);
+    }
+
+
+    
+.infos{
+    
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+
+}
+
+}
+
+
